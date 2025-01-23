@@ -2,8 +2,8 @@ collections:
   survey-group-1:
     output: true
     order:
-      - Example 3.md
-      - Example 2B.md
       - Example 1A.md
       - Example 1B.md
       - Example 2A.md
+      - Example 2B.md
+      - Example 3.md
