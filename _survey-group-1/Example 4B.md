@@ -5,9 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Intent to Sell</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Couple discussing with realtor agent." src="/images/happy_young_asian_couple_realtor_agent.jpg">
+</div>
 <p>To begin selling your flat, log in to My Flat Dashboard using your Singpass
 and register your Intent to Sell.</p>
-<p></p>
 <h3>Purpose of Registering an Intent to Sell</h3>
 <p>Registering an Intent to Sell lets you check your eligibility to sell
 your flat. After registering, you’ll find out when you can start granting
