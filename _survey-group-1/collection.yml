@@ -1,5 +1,5 @@
 collections:
-  sample-webpages-a:
+  survey-group-1:
     output: true
     order:
       - Example 1B.md
