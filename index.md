@@ -1,8 +1,10 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Survey on Effective Government Copywriting
+description: This survey is part of research for the Hack for Public Good
+  hackathon, organised by Open Government Products, to explore new tech
+  solutions.
+image: /images/IsoFluent.svg
 permalink: /
 notification: "Disclaimer: This website is set up exclusively for the survey on
   copywriting preferences. The content provided is for the survey and
