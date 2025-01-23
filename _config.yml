@@ -3,7 +3,7 @@ url: https://copywritingsurvey.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#009a75"
-  secondary-color: "#bfd835"
+  secondary-color: "#047c79"
   media-colors:
     - title: media-color-one
       color: "#49759a"
