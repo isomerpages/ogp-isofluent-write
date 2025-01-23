@@ -19,5 +19,5 @@ sections:
       description: This website is set up exclusively for the survey on copywriting
         preferences. The content provided is for the survey and demonstration
         purposes only.
-      subtitle: DISCLAIMER
+      title: DISCLAIMER
 ---
