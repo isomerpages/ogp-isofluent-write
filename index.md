@@ -18,11 +18,15 @@ sections:
         - title: Survey Group 2
           description: ""
           url: /survey-group-2
-      url: /instructions
-      button: Begin Survey
   - infobar:
-      title: Disclaimer
-      description: This is a sample website created solely for survey purposes to
-        study copywriting preferences. The content on this website is for
-        demonstration only.
+      title: Thanks for agreeing to take part in our survey!
+      id: infobar
+      description: To get started, please click the link below for further instructions.
+      button: Begin SURVEY
+      url: /instructions
+  - infobar:
+      description: This website is set up exclusively for the survey on copywriting
+        preferences. The content provided is for the survey and demonstration
+        purposes only.
+      subtitle: DISCLAIMER
 ---
