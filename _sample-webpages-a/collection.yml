@@ -2,4 +2,4 @@ collections:
   sample-webpages-a:
     output: true
     order:
-      - folder-page.md
+      - Example 1.md
