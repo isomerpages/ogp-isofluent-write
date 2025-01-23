@@ -4,9 +4,9 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Disclaimer: This is a sample website created solely for survey
-  purposes to study copywriting preferences. The content on this website is for
-  demonstration only."
+notification: "Disclaimer: This website is set up exclusively for the survey on
+  copywriting preferences. The content provided is for the survey and
+  demonstration purposes only."
 sections:
   - hero:
       title: Survey on Effective Government Copywriting
