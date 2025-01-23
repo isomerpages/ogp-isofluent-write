@@ -49,6 +49,12 @@ Sell and register a new one. Otherwise, you will not be able to proceed
 to the subsequent steps and your resale application may be rejected.
 <br>
 </p>
+<p></p>
 </li>
 </ul>
+<hr>
+<p></p>
+<p><strong>Disclaimer: This website is built for the copywriting preferences survey. The content provided is for the survey and demonstration purposes only.</strong>
+</p>
+<p></p>
 <p></p>
