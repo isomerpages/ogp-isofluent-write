@@ -9,21 +9,8 @@ notification: "Disclaimer: This is a sample website created solely for survey
   demonstration only."
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      title: Survey on Effective Government Copywriting
+      background: /images/laptop_communication_finger_one_life.jpg
   - infobar:
       title: Disclaimer
       description: This is a sample webpage created solely for survey purposes to
