@@ -18,6 +18,8 @@ sections:
         - title: Survey Group 2
           description: ""
           url: /survey-group-2
+      url: /instructions
+      button: BEGIN SURVEY
   - infobar:
       title: Disclaimer
       description: This is a sample website created solely for survey purposes to
