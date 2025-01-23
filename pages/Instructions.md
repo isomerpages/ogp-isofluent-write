@@ -4,6 +4,11 @@ permalink: /instructions/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Typing." src="/images/laptop_communication_finger_one_life.jpg">
+</div>
+<p></p>
 <p>Thank you for agreeing to participate in our survey on effective copywriting.</p>
 <p>This survey is part of research for the Hack for Public Good (HFPG) hackathon,
 organised by <a href="https://www.open.gov.sg/" rel="noopener nofollow" target="_blank">Open Government Products (OGP)</a>,
