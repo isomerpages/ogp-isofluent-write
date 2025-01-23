@@ -50,3 +50,9 @@ application may be rejected.</p>
 </li>
 </ul>
 <p></p>
+<hr>
+<p></p>
+<p><strong>Disclaimer: This website is built for the copywriting preferences survey. The content provided is for the survey and demonstration purposes only.</strong>
+</p>
+<p></p>
+<p></p>
