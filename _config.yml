@@ -54,7 +54,7 @@ plugins:
 staging: https://staging-lite.d35ttzrroiqzh.amplifyapp.com
 prod: https://master.d2kirdcagzojn.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/IsoFluent.png
+shareicon: /images/IsoFluent.svg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
