@@ -4,7 +4,7 @@ title: Survey on Effective Government Copywriting
 description: This survey is part of research for the Hack for Public Good
   hackathon, organised by Open Government Products, to explore new tech
   solutions.
-image: /images/IsoFluent.png
+image: /images/IsoFluent.svg
 permalink: /
 notification: ""
 sections:
