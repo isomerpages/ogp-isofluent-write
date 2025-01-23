@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Survey Group 1
     collection: survey-group-1
+  - title: Survey Group 2
+    collection: survey-group-2
