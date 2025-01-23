@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /survey-group-2
       url: /instructions
-      button: BEGIN SURVEY
+      button: Begin Survey
   - infobar:
       title: Disclaimer
       description: This is a sample website created solely for survey purposes to
