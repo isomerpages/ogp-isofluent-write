@@ -25,7 +25,7 @@ human papillomavirus and influenza.</p>
 <p>Of these, vaccinations against measles and diphtheria are compulsory for
 children under the Infectious Diseases Act.
 <br>
-<br><a href="https://isomer-user-content.by.gov.sg/3/cfe960d9-aa16-4f64-a093-20cbec54d288/ncis_table-only_13-jul-2020.pdf" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Click here to download PDF version of the NCIS [PDF, 221 KB]</a>
+<br><a href="https://isomer-user-content.by.gov.sg/3/cfe960d9-aa16-4f64-a093-20cbec54d288/ncis_table-only_13-jul-2020.pdf" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Click here to download the PDF version of the NCIS [PDF, 221 KB]</a>
 </p>
 <h3>National Adult Immunisation Schedule</h3>
 <p>The National Adult Immunisation Schedule (NAIS) was established in November
@@ -55,5 +55,5 @@ and mortality.</p>
 pneumococcal disease, human papillomavirus, tetanus, diphtheria, pertussis,
 measles, mumps, hepatitis B, and varicella (chickenpox).
 <br>
-<br><a href="https://isomer-user-content.by.gov.sg/3/8b815650-21b7-498e-979b-fe0d03aea861/nais_table_15_jul_2020.pdf" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Click here to download PDF version of the NAIS [PDF, 135 KB]</a>
+<br><a href="https://isomer-user-content.by.gov.sg/3/8b815650-21b7-498e-979b-fe0d03aea861/nais_table_15_jul_2020.pdf" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Click here to download the PDF version of the NAIS [PDF, 135 KB]</a>
 </p>
