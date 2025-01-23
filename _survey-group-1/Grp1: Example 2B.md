@@ -54,3 +54,10 @@ B, and varicella (chickenpox).
 <br>
 <br><a href="https://isomer-user-content.by.gov.sg/3/8b815650-21b7-498e-979b-fe0d03aea861/nais_table_15_jul_2020.pdf" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Click here to download the PDF version of the NAIS [PDF, 135 KB]</a>
 </p>
+<p></p>
+<hr>
+<p></p>
+<p><strong>Disclaimer: This website is built for the copywriting preferences survey. The content provided is for the survey and demonstration purposes only.</strong>
+</p>
+<p></p>
+<p></p>
