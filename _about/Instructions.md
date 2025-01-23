@@ -14,10 +14,4 @@ to explore new tech solutions.</p>
 as assigned to you earlier, and complete the <a href="form.gov.sg" rel="noopener nofollow" target="_blank">survey form</a> based on them.
 <br>
 </p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="IsoFluent" src="/images/IsoFluent.svg">
-</div>
 <p></p>
