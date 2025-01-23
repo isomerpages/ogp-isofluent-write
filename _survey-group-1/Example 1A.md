@@ -27,5 +27,3 @@ all motor vehicles are subject to fuel quality standards and exhaust emission
 standards for both new and in-use vehicles.</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
