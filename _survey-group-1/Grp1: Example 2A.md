@@ -4,7 +4,8 @@ permalink: /survey-group-1/example-2a/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Nationally recommended vaccines</strong><br></h2>
+<h2><strong>Nationally recommended vaccines</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Woman getting vaccine shot." src="/images/woman_getting_vaccine_shot_by_male_medic.jpg">
 </div>
