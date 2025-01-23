@@ -4,7 +4,8 @@ permalink: /survey-group-1/example-4/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Intent to Sell</strong><br></h1>
+<h1><strong>Intent to Sell</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Couple discussing with realtor agent." src="/images/happy_young_asian_couple_realtor_agent.jpg">
 </div>
