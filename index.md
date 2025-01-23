@@ -4,7 +4,9 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Disclaimer: This is a sample website created solely for survey
+  purposes to study copywriting preferences. The content on this website is for
+  demonstration only."
 sections:
   - hero:
       title: Hero title
