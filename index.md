@@ -6,9 +6,7 @@ description: This survey is part of research for the Hack for Public Good
   solutions.
 image: /images/IsoFluent.svg
 permalink: /
-notification: "Disclaimer: This website is set up exclusively for the survey on
-  copywriting preferences. The content provided is for the survey and
-  demonstration purposes only."
+notification: ""
 sections:
   - hero:
       title: Survey on Effective Government Copywriting
