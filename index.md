@@ -16,8 +16,7 @@ sections:
           description: ""
           url: /instructions
   - infobar:
-      description: This website is set up exclusively for the survey on copywriting
-        preferences. The content provided is for the survey and demonstration
-        purposes only.
+      description: This website is built for the copywriting preferences survey. The
+        content provided is for the survey and demonstration purposes only.
       title: Disclaimer
 ---
