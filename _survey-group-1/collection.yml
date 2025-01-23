@@ -2,7 +2,6 @@ collections:
   survey-group-1:
     output: true
     order:
-      - "Grp2: Example 1A.md"
       - "Grp2: Example 1B.md"
       - "Grp2: Example 2A.md"
       - "Grp2: Example 2B.md"
