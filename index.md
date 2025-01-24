@@ -15,10 +15,10 @@ sections:
         - title: Click here to start the survey
           description: ""
           url: /instructions
-      subtitle: Preference and Comprehension Test
+      subtitle: Preference and Comprehension Survey
   - infobar:
       title: Disclaimer
       id: infobar
-      description: This website is used for testing purposes, contents of this page
-        are not accurate and does not represent anyone or Government agency.
+      description: This website is used for test purposes, contents of this page are
+        not accurate and does not represent anyone or a Government agency.
 ---
