@@ -30,12 +30,18 @@ they are granted property &amp; affairs powers as defined in the LPA) </p>
 </li>
 </ul>
 <h3>Benefits of an LPA</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Enables&nbsp;a person to&nbsp;make a personal, considered choice&nbsp;of
 a trusted proxy decision maker, who is reliable and competent to act in
 his/her best interests should he/she lose mental capacity one day.</p>
+</li>
+<li>
 <p>Alleviates the stress and difficulties faced by loved ones who need to
 apply for a Deputyship order, if the person loses mental capacity without
 an LPA in place.</p>
+</li>
+</ul>
 <p>You are also encouraged to make an Advance Care Plan (ACP), and appoint
 your Donee as your Nominated Healthcare Spokesperson. Visit the&nbsp;ACP
 website&nbsp;for more information.</p>
