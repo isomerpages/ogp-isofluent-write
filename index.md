@@ -6,7 +6,7 @@ description: This survey is part of research for the Hack for Public Good
   solutions.
 image: /images/IsoFluent.svg
 permalink: /
-notification: ""
+notification: This website is used for a closed test as part of Hack for Public Good 2025
 sections:
   - hero:
       title: Better Government Copywriting?
