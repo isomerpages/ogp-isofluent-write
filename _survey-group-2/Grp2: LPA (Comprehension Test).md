@@ -36,3 +36,10 @@ for a Deputyship order if no LPA is in place.</p>
 <p>You are encouraged to make an Advance Care Plan (ACP) and appoint your
 Donee as your Nominated Healthcare Spokesperson. Visit the ACP website
 for more information.</p>
+<p></p>
+<hr>
+<p></p>
+<p><strong>Disclaimer: This website is built for the copywriting preferences survey. The content provided is for the survey and demonstration purposes only.</strong>
+</p>
+<p></p>
+<p></p>
