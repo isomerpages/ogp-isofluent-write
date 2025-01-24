@@ -6,17 +6,15 @@ description: This survey is part of research for the Hack for Public Good
   solutions.
 image: /images/IsoFluent.svg
 permalink: /
-notification: ""
+notification: This website is used for a test of a concept as part of Open
+  Government Products' Hack for Public Good hackathon
 sections:
   - hero:
-      title: Survey on Effective Government Copywriting
+      title: Better Government Copywriting?
       background: /images/laptop_communication_finger_one_life.jpg
       key_highlights:
         - title: Click here to start the survey
           description: ""
           url: /instructions
-  - infobar:
-      description: This website is built for the copywriting preferences survey. The
-        content provided is for the survey and demonstration purposes only.
-      title: Disclaimer
+      subtitle: Preference and Comprehension Test
 ---
