@@ -2,9 +2,9 @@ collections:
   survey-group-2:
     output: true
     order:
-      - "Grp2: LPA (Comprehension Test).md"
       - "Grp2: Clean Air (Version A).md"
       - "Grp2: Clean Air (Version B).md"
       - "Grp2: Vaccines (Version A).md"
       - "Grp2: Vaccines (Version B).md"
       - "Grp2: NS Call Up (Comprehension Test).md"
+      - "Grp2: LPA (Comprehension Test).md"
