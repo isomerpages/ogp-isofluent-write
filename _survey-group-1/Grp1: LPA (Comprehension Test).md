@@ -4,7 +4,7 @@ permalink: /survey-group-1/example-4/
 variant: tiptap
 description: ""
 ---
-<h2><strong>What Is A Lasting Power of Attorney (LPA)</strong></h2>
+<h2><strong>What Is A Lasting Power of Attorney (LPA)?</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Legal Advice" src="/images/happy_young_asian_couple_realtor_agent.jpg">
