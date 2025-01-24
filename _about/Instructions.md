@@ -17,11 +17,22 @@ Aggregated data from this test (eg. "70% of survey participants preferred
 Option A") may be published. By submitting this form, you consent to us
 using your responses in this way.</p>
 <p></p>
-<p>To begin the test, please refer to the assigned webpage examples (<a href="/survey-group-1/example-1a/" rel="noopener nofollow" target="_blank">Survey Group 1</a> or
-<a href="/survey-group-2/example-1a/" rel="noopener nofollow" target="_blank">Survey Group 2</a>) and respond to 15 questions in this <a href="https://go.gov.sg/copywritingsurveyform2025" rel="noopener nofollow" target="_blank">survey form</a>.
+<h3>How to participate?</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Refer to the assigned webpage examples:</p>
+<p><a href="/survey-group-1/example-1a/" rel="noopener nofollow" target="_blank">Survey Group 1</a> or
+<a href="/survey-group-2/example-1a/" rel="noopener nofollow" target="_blank">Survey Group 2</a>
+<br>
+</p>
+</li>
+<li>
+<p>Respond to the 15 questions in this <a href="https://go.gov.sg/copywritingsurveyform2025" rel="noopener nofollow" target="_blank">survey form</a>.
 <br>
 <br>
 </p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Open Government Products Logo" src="/images/ogp_logo_spacing.png">
 </div>
