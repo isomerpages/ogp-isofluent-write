@@ -34,5 +34,11 @@ an LPA in place.</p>
 <p>You are also encouraged to make an Advance Care Plan (ACP), and appoint
 your Donee as your Nominated Healthcare Spokesperson. Visit the&nbsp;ACP
 website&nbsp;for more information.</p>
-<h3></h3>
+<p></p>
+<hr>
+<p></p>
+<p><strong>Disclaimer: This website is built for the copywriting preferences survey. The content provided is for the survey and demonstration purposes only.</strong>
+</p>
+<p></p>
+<p></p>
 <p></p>
