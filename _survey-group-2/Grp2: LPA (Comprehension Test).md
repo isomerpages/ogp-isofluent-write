@@ -5,6 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>What Is a Lasting Power of Attorney (LPA)?</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Legal Advice" src="/images/happy_young_asian_couple_realtor_agent.jpg">
+</div>
+<p></p>
+<p></p>
 <p>An LPA is a legal document that allows anyone aged 21 or older (the "Donor")
 to appoint one or more trusted individuals (the "Donee(s)") to make decisions
 and act on their behalf if they lose mental capacity. Donee(s) can be authorised
