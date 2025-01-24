@@ -27,8 +27,9 @@ using your responses in this way.</p>
 </p>
 </li>
 <li>
-<p>Respond to the 15 questions in this <a href="https://go.gov.sg/copywritingsurveyform2025" rel="noopener nofollow" target="_blank">survey form</a>.
-<br>
+<p>Respond to the 15 questions in this <a href="https://go.gov.sg/copywritingsurveyform2025" rel="noopener nofollow" target="_blank">survey form</a>.</p>
+<p></p>
+<p>
 <br>
 </p>
 </li>
