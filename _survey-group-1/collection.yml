@@ -2,7 +2,7 @@ collections:
   survey-group-1:
     output: true
     order:
-      - "Grp1: Example 1A.md"
+      - "Grp1: Clean Air (Version A).md"
       - "Grp1: Example 1B.md"
       - "Grp1: Example 2A.md"
       - "Grp1: Example 2B.md"
