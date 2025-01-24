@@ -16,6 +16,7 @@ will be used to improve the designs, products or services we are exploring.
 Aggregated data from this test (eg. "70% of survey participants preferred
 Option A") may be published. By submitting this form, you consent to us
 using your responses in this way.</p>
+<p></p>
 <p>To begin the test, please refer to the assigned webpage examples (<a href="/survey-group-1/example-1a/" rel="noopener nofollow" target="_blank">Survey Group 1</a> or
 <a href="/survey-group-2/example-1a/" rel="noopener nofollow" target="_blank">Survey Group 2</a>) and respond to 15 questions in this <a href="https://go.gov.sg/copywritingsurveyform2025" rel="noopener nofollow" target="_blank">survey form</a>.
 <br>
